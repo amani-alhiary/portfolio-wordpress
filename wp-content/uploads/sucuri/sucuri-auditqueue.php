@@ -1,0 +1,36 @@
+<?php
+// datastore=auditqueue;
+// created_on=1662365200;
+// updated_on=1662840739;
+exit(0);
+?>
+1662365200_7188:"Warning: root, 127.0.0.1; Plugin activated: Sucuri Security - Auditing, Malware Scanner and Hardening (v1.8.33; sucuri-scanner\/sucuri.php)"
+1662366216_9041:"Warning: root, 127.0.0.1; Plugin activated: Wordfence Security (v7.6.0; wordfence\/wordfence.php)"
+1662366273_872:"Warning: root, 127.0.0.1; Plugin activated: Jetpack (v11.2; jetpack\/jetpack.php)"
+1662366477_977:"Warning: root, 127.0.0.1; Plugin activated: Akismet Anti-Spam (v5.0; akismet\/akismet.php)"
+1662366650_5974:"Warning: root, 127.0.0.1; Plugin activated: Password Protected (v2.5.3; password-protected\/password-protected.php)"
+1662367218_5237:"Warning: root, 127.0.0.1; Plugin activated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662368515_1934:"Warning: root, 127.0.0.1; Plugin deactivated: Password Protected (v2.5.3; password-protected\/password-protected.php)"
+1662368521_8603:"Warning: root, 127.0.0.1; Plugin deactivated: Starter Templates (v3.1.15; astra-sites\/astra-sites.php)"
+1662368583_9593:"Notice: root, 127.0.0.1; Page status has been changed; details: ID: 92,Old status: new,New status: auto-draft,Title: Auto Draft"
+1662368652_9994:"Notice: root, 127.0.0.1; Page status has been changed; details: ID: 92,Old status: auto-draft,New status: draft,Title: SIGN UP"
+1662370685_9789:"Warning: root, 127.0.0.1; Plugin activated: Blocks for Eventbrite (v1.1.2; blocks-for-eventbrite\/blocks-for-eventbrite.php)"
+1662370919_9679:"Notice: root, 127.0.0.1; Gutenverse-form status has been changed; details: ID: 93,Old status: new,New status: publish,Title: Sign up"
+1662371061_5578:"Warning: root, 127.0.0.1; Plugin activated: Password Protect WordPress Lite (v1.8.4; password-protect-page\/wp-protect-password.php)"
+1662371113_7922:"Warning: root, 127.0.0.1; Plugin deactivated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662371115_1822:"Warning: root, 127.0.0.1; Plugin deactivated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662371115_8074:"Warning: root, 127.0.0.1; Plugin deactivated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662371115_9383:"Warning: root, 127.0.0.1; Plugin deactivated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662371116_0553:"Warning: root, 127.0.0.1; Plugin deactivated: Password Policy Manager (v1.3.3; password-policy-manager\/miniorange-password-policy-setting.php)"
+1662371247_7358:"Notice: root, 127.0.0.1; Page status has been changed; details: ID: 92,Old status: draft,New status: publish,Title: SIGN UP"
+1662371249_8554:"Notice: root, 127.0.0.1; Page was created; ID: 92; name: SIGN UP"
+1662371251_9408:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 94,Old status: new,New status: inherit,Title: SIGN UP"
+1662371256_6923:"Notice: root, 127.0.0.1; Page was updated; ID: 92; name: SIGN UP"
+1662371260_4123:"Notice: root, 127.0.0.1; Revision status has been changed; details: ID: 95,Old status: new,New status: inherit,Title: SIGN UP"
+1662371639_8807:"Warning: root, 127.0.0.1; Plugin deactivated: Password Protect WordPress Lite (v1.8.4; password-protect-page\/wp-protect-password.php)"
+1662371955_4673:"Warning: root, 127.0.0.1; Plugin activated: Antispam Bee (v2.11.1; antispam-bee\/antispam_bee.php)"
+1662372122_0437:"Warning: root, 127.0.0.1; Plugin deactivated: Jetpack (v11.2; jetpack\/jetpack.php)"
+1662372361_3981:"Warning: root, 127.0.0.1; Plugin activated: Password Protect WordPress Lite (v1.8.4; password-protect-page\/wp-protect-password.php)"
+1662372471_811:"Warning: root, 127.0.0.1; Plugin activated: Anti-Malware Security and Brute-Force Firewall (v4.21.83; gotmls\/index.php)"
+1662374007_7927:"Warning: root, 127.0.0.1; Plugin activated: Yoast SEO (v19.6.1; wordpress-seo\/wp-seo.php)"
+1662383709_3096:"Notice: 127.0.0.1; User authentication succeeded: root"
